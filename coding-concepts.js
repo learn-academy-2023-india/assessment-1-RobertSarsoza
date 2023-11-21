@@ -8,25 +8,25 @@
 
 // --------------------INSTRUCTOR EXAMPLE: What will this log?
 const colors = ["tangerine", "magenta", "lilac", "daffodil"]
-// console.log(colors.push("indigo"))
+console.log(colors.push("indigo"))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: add indigo to the end of the array. 
+// b) Verify and explain: I knew .push was a modifier and that it would add indigo to the end, but I was incorrect because I confused an array with a string. Arrays will be in brackets while strings in quotations 
 
 // --------------------1) What will this log?
 
 const cohort = "LEARN 2023"
-// console.log(cohort.length)
+console.log(cohort.length)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: 9
+// b) Verify and explain: 10 spaces are included 
 
 // --------------------2) What will this log?
 
 const greeting = "Hello World!"
-// console.log(greeting[4])
+console.log(greeting[4])
 
-// a) Your answer:
+// a) Your answer: there will be no output because the array is undefined 
 // b) Verify and explain:
 
 // --------------------3) What will this log?
