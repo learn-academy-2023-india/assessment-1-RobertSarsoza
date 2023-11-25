@@ -32,7 +32,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
     Researched answer:
         An array's INDEX is the element's** numerical position in the array. It usually starts at 0. 
         An array's VALUE is actual data/content that is stored in a particular position in the array. 
-        chatGPT's example + my understanding - array is the neighborhood, index is the address of a house, element is the house, value is the person(s) in the house, and high order function would be a  city planner. 
+        chatGPT's example + my understanding - array is the neighborhood, index is the address of a house, element is the house, value is the person(s) in the house, and high order function would be a city planner. 
 
 3. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
