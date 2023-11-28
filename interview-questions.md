@@ -139,3 +139,4 @@ Research and define the following terms. Hint: use the syllabus!
 
                 example Person*** is a constructor function that defines a blueprint for creating Person objects. When invoked with new***, it creates instances of the Person*** object with specific property values. 
                 Each instance has its own set of properties and can have methods defined in the constructor.
+
